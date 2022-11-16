@@ -1,0 +1,8 @@
+h1{
+    color: red;
+}
+ul > li > a {
+    font-size: 2rem;
+    color: black;
+    padding: 4rem;
+}
